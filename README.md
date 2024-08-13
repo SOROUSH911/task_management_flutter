@@ -1,3 +1,7 @@
+# README
+
+[task management demo.mp4](README/task_management_demo.mp4)
+
 # Task Management App
 
 A simple Flutter app for managing tasks, developed as part of a technical evaluation for a job application at ParatechCo.
@@ -17,3 +21,5 @@ A simple Flutter app for managing tasks, developed as part of a technical evalua
 ## Design
 
 - [Figma Design](https://www.figma.com/file/ROiAm5R4r9qRUo3cbdDK3o/done-task?node-id=0%3A1)
+
+![image.png](README/image.png)
